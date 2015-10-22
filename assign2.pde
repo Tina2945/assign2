@@ -30,16 +30,16 @@ int hx=40;
     int ty=floor(random(0,450));
 void setup () {
   size(640, 480) ;
-  bg1=loadImage("img2/bg1.png");
-  bg2=loadImage("img2/bg2.png");
-  enemy=loadImage("img2/enemy.png");
-  hp=loadImage("img2/hp.png");
-  fighter= loadImage("img2/fighter.png");
-  treasure=loadImage("img2/treasure.png");
-  start1=loadImage("img2/start1.png");
-  start2=loadImage("img2/start2.png");
-  end1=loadImage("img2/end1.png");
-  end2=loadImage("img2/end2.png");
+  bg1=loadImage("img/bg1.png");
+  bg2=loadImage("img/bg2.png");
+  enemy=loadImage("img/enemy.png");
+  hp=loadImage("img/hp.png");
+  fighter= loadImage("img/fighter.png");
+  treasure=loadImage("img/treasure.png");
+  start1=loadImage("img/start1.png");
+  start2=loadImage("img/start2.png");
+  end1=loadImage("img/end1.png");
+  end2=loadImage("img/end2.png");
   
 }
 
